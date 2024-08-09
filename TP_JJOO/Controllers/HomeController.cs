@@ -20,7 +20,7 @@ public class HomeController : Controller
 
     public IActionResult Deportes()
     {
-        //ViewBag.ListaDeportes = 
+        ViewBag.ListaDeportes = BD.ListarDeportes();
         return View();
     }
 
@@ -32,17 +32,42 @@ public class HomeController : Controller
 
     public IActionResult VerDetalleDeporte(int idDeporte)
     {
-        //ViewBag.DatosDeporte = BD.de
+        ViewBag.DatosDeporte = BD.Deporte(idDeporte);
         ViewBag.ListaDeportistas = BD.ListarDeportistasXdep(idDeporte);
         return View("DetalleDeporte");
     }
 
     public IActionResult VerDetallePais(int idPais)
     {
-        //ViewBag.ListaPaises = BD. 
+        ViewBag.ListaPaises = BD.Pais(idPais);
         ViewBag.ListaDeportistasPais = BD.ListarDeportistasXpais(idPais);
         return View("DetallePais");
     }
+
+    public IActionResult VerDetalleDeportista(int IdDeportista)
+    {
+        ViewBag.DatpsDeportista = BD.Deportista(IdDeportista);
+        return View("DetalleDeportista");
+    }
+
+    public IActionResult AgregarDeportista(){
+
+        ViewBag.ListaPaises = BD.ListarPaises();
+        ViewBag.ListaDeportes = BD.ListarDeportes();
+        return View(); //form con deportistas para cargar.
+    }
+
+    public IActionResult EliminarDeportista (int idCandidato)
+    {
+        ViewBag.CantDeportistaEliminado = "Deportistas eliminados: "+ BD.EliminarDeportista(idCandidato);
+        return View("Index");
+
+    }
+
+    
+
+
+
 
     
 

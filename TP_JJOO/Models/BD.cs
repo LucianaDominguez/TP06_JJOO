@@ -26,7 +26,7 @@ public class BD
 
     }
 
-    public static Deporte (int IdDeporte)
+    public static Deporte Deporte (int IdDeporte)
     {
         Deporte deporteConsultado = null;
             using(SqlConnection db = new SqlConnection(_connectionString))
@@ -38,7 +38,7 @@ public class BD
         return deporteConsultado;
 
     } 
-      public static Pais (int IdPais)
+      public static Pais Pais (int IdPais)
     {
           Pais paisConsultado = null; 
             using(SqlConnection db = new SqlConnection(_connectionString))
@@ -51,7 +51,7 @@ public class BD
 
     }
 
-      public static Deportista (int IdDeportista)
+      public static Deportista Deportista (int IdDeportista)
     {
           Deportista deportistaConsultado = null; 
             using(SqlConnection db = new SqlConnection(_connectionString))
@@ -92,6 +92,16 @@ public class BD
             _ListadoDeportistas = db.Query<Deportistas>(SQL, new {pIdPais = IdPais}).ToList(); 
         } 
         return _ListadoDeportistas; 
+    }
+
+    public static List ListarDeportes()
+    {
+        using(SqlConnection db = new SqlConnection(_connectionString)) 
+        {
+            string SQL = "SELECT * FROM Deportes"; 
+            _ListadoDeportes = db.Query<Pais>(SQL).ToList(); 
+        } 
+        return _ListadoDeportes; 
     }
 
 }
