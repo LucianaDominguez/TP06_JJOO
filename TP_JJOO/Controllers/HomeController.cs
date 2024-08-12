@@ -64,6 +64,11 @@ public class HomeController : Controller
 
     }
 
+    public IActionResult Creditos ()
+    {
+        return View();
+    }
+
     
 
 
