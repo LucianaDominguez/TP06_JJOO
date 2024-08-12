@@ -2,7 +2,7 @@ using System.Data.SqlClient;
 using Dapper;
 
 public class BD
-{
+{ 
     private static string _connectionString = @"Server=localhost;
     DataBase=JJOO;Trusted_Connection=True;";
     public static void AgregarDeportista(Deportista dep)
@@ -64,8 +64,9 @@ public class BD
 
     } 
 
-    public static List ListarPaises ()
-    {
+    public static List<Pais> ListarPaises ()
+    {   
+        List<Pais> _ListadoPaises = new List<Pais>();
         using(SqlConnection db = new SqlConnection(_connectionString)) 
         {
             string SQL = "SELECT * FROM Paises"; 
@@ -74,32 +75,37 @@ public class BD
         return _ListadoPaises; 
     }
 
-    public static List ListarDeportistasXdep (int IdDeporte)
+    public static List<Deportista> ListarDeportistasXdep (int IdDeporte)
     {
+        List<Deportista> _ListadoDeportistas = new List<Deportista>(); 
+
         using(SqlConnection db = new SqlConnection(_connectionString)) 
         {
             string SQL = "SELECT * FROM Deportistas WHERE IdDeporte = @pIdDeporte"; 
-            _ListadoDeportistas = db.Query<Deportistas>(SQL, new {pIdDeporte = IdDeporte}).ToList(); 
+            _ListadoDeportistas = db.Query<Deportista>(SQL, new {pIdDeporte = IdDeporte}).ToList(); 
         } 
         return _ListadoDeportistas; 
     }
 
-     public static List ListarDeportistasXpais (int IdPais)
+     public static List<Deportista> ListarDeportistasXpais (int IdPais)
     {
+        List<Deportista> _ListadoDeportistas = new List<Deportista>(); 
         using(SqlConnection db = new SqlConnection(_connectionString)) 
         {
             string SQL = "SELECT * FROM Deportistas WHERE IdPais = @pIdPais"; 
-            _ListadoDeportistas = db.Query<Deportistas>(SQL, new {pIdPais = IdPais}).ToList(); 
+            _ListadoDeportistas = db.Query<Deportista>(SQL, new {pIdPais = IdPais}).ToList(); 
         } 
         return _ListadoDeportistas; 
     }
 
-    public static List ListarDeportes()
+    public static List<Deporte> ListarDeportes()
     {
+        List<Deporte> _ListadoDeportes = new List<Deporte>();
+
         using(SqlConnection db = new SqlConnection(_connectionString)) 
         {
             string SQL = "SELECT * FROM Deportes"; 
-            _ListadoDeportes = db.Query<Pais>(SQL).ToList(); 
+            _ListadoDeportes = db.Query<Deporte>(SQL).ToList(); 
         } 
         return _ListadoDeportes; 
     }
