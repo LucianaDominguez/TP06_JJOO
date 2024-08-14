@@ -511,11 +511,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\2024\\TP06_JJOO-2\\TP_JJOO\\TP_JJOO.csproj",
+      "projectUniqueName": "C:\\Users\\48039458\\Downloads\\TP06_JJOO-3\\TP_JJOO\\TP_JJOO.csproj",
       "projectName": "TP_JJOO",
-      "projectPath": "Z:\\2024\\TP06_JJOO-2\\TP_JJOO\\TP_JJOO.csproj",
+      "projectPath": "C:\\Users\\48039458\\Downloads\\TP06_JJOO-3\\TP_JJOO\\TP_JJOO.csproj",
       "packagesPath": "C:\\Users\\48039458\\.nuget\\packages\\",
-      "outputPath": "Z:\\2024\\TP06_JJOO-2\\TP_JJOO\\obj\\",
+      "outputPath": "C:\\Users\\48039458\\Downloads\\TP06_JJOO-3\\TP_JJOO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -581,7 +581,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

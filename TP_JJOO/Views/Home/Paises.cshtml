@@ -3,5 +3,5 @@
 @foreach(Pais pais in ViewBag.ListaPaises){
     <h1> @pais.Nombre </h1>
     <img src="~/img/@pais.Bandera">
-    <button> <a href = "@Url.Action('VerDetallePais', new { ViewBag.idPais = pais.IdPais })"> Ver Más</a> </button>
+    <button> <a href = '@Url.Action("VerDetallePais", "Home", new {idPais = pais.IdPais })'> Ver Más</a> </button>
 }

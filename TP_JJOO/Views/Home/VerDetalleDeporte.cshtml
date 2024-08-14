@@ -1,10 +1,10 @@
 <h1>  Detalle Deporte </h1>
-
-<h2>@ViewBag.DatosDeporte</h2>
+<img src="@ViewBag.DatosDeporte.Foto">
+<h2>@ViewBag.DatosDeporte.Nombre</h2>
 
 
 @foreach(Deportista dep in ViewBag.ListaDeportistas){
     <h1> @dep.Nombre </h1>
     <img src="~/img/@dep.Foto">
-    <button> <a href = "@Url.Action('VerDetalleDeportista', new { id = dep.IdDeportista })"> Ver Más</a></button>
+    <button> <a href = '@Url.Action("VerDetalleDeportista", "Home", new { id = dep.IdDeportista })'> Ver Más</a></button>
 }

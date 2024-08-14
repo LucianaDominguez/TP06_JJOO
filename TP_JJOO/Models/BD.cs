@@ -29,11 +29,11 @@ public class BD
     public static Deporte Deporte (int IdDeporte)
     {
         Deporte deporteConsultado = null;
-            using(SqlConnection db = new SqlConnection(_connectionString))
-            { 
-                string SQL = "SELECT * FROM Deportes WHERE IdDeporte = @pIdDeporte";
-                deporteConsultado = db.QueryFirstOrDefault<Deporte>(SQL, new {pIdDeporte = IdDeporte});
-            }
+        using(SqlConnection db = new SqlConnection(_connectionString))
+        { 
+            string SQL = "SELECT * FROM Deportes WHERE IdDeporte = @pIdDeporte";
+            deporteConsultado = db.QueryFirstOrDefault<Deporte>(SQL, new {pIdDeporte = IdDeporte});
+        }
 
         return deporteConsultado;
 

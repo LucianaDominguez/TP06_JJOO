@@ -40,7 +40,7 @@ public class HomeController : Controller
     public IActionResult VerDetallePais(int idPais)
     {
         ViewBag.ListaPaises = BD.Pais(idPais);
-        ViewBag.ListaDeportistasPais = BD.ListarDeportistasXpais(idPais);
+        ViewBag.ListaDeportistasPais = BD.ListarDeportistasXpais(idPais).ToList();
         return View("VerDetallePais");
     }
 
@@ -52,8 +52,8 @@ public class HomeController : Controller
 
     public IActionResult AgregarDeportista(){
 
-        ViewBag.ListaPaises = BD.ListarPaises();
-        ViewBag.ListaDeportes = BD.ListarDeportes();
+        ViewBag.ListaPaises = BD.ListarPaises().ToList();
+        ViewBag.ListaDeportes = BD.ListarDeportes().ToList();
         return View(); //form con deportistas para cargar.
     }
 
