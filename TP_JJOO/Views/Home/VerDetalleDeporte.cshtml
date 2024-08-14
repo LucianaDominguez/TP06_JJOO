@@ -1,0 +1,7 @@
+<h1>  Detalle Deporte </h1>
+
+@foreach(Deportista dep in ViewBag.ListaDeportistas){
+    <h1> @dep.Nombre </h1>
+    <img src="~/img/@dep.Foto">
+    <button> <a href = "@Url.Action('VerDetalleDeportista', new { id = dep.IdDeportista })"> Ver Más</a></button>
+}

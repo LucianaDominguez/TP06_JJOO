@@ -32,6 +32,182 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\argentina.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/argentina.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\argentina.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\arqueria.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/arqueria.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\arqueria.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\atletismo.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/atletismo.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\atletismo.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\biles.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/biles.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\biles.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\china.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/china.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\china.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\davis.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/davis.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\davis.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\duplantis.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/duplantis.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\duplantis.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\eeuu.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/eeuu.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\eeuu.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\gimartistica.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/gimartistica.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\gimartistica.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\gomez.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/gomez.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\gomez.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\jajarabilla.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/jajarabilla.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\jajarabilla.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\logojjoo.png))">
       <SourceType>Package</SourceType>
       <SourceId>TP_JJOO</SourceId>
@@ -47,6 +223,102 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\logojjoo.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\mucino.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/mucino.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\mucino.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\su.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/su.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\su.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\suecia.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/suecia.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\suecia.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\Thumbs.db))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/Thumbs.db</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\Thumbs.db))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\Xia.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/Xia.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\Xia.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\yang.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>TP_JJOO</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TP_JJOO</BasePath>
+      <RelativePath>img/yang.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\yang.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\js\site.js))">
       <SourceType>Package</SourceType>

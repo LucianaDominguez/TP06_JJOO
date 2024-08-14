@@ -1,5 +1,7 @@
-<!--@foreach(Deporte dep in ViewBag.ListaDeportes){
+<h1> Deportes </h1>
+
+@foreach(Deporte dep in ViewBag.ListaDeportes){
     <h1> @dep.Nombre </h1>
-    <img src=".../img/@dep.Foto">
-    <button> <a href @Url.Action(VerDetalleDeporte)> ver mas</a> </button>
-}-->
+    <img src="~/img/@dep.Foto">
+    <button> <a href @Url.Action("VerDetalleDeporte")> Ver Más</a> </button>
+}
