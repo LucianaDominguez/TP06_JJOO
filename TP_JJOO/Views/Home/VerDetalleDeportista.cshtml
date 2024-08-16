@@ -1,7 +1,6 @@
 <h1>  Detalle Deportista </h1>
-<h2>@ViewBag.DatosDeportista.Nombre</h2>
-<h2>@ViewBag.DatosDeportista.Apellido</h2>
-<h2>@ViewBag.DatosDeportista.FechaNacimiento</h2>
+<h2>@ViewBag.DatosDeportista.Nombre @ViewBag.DatosDeportista.Apellido</h2>
+<h2> Fecha de Nacimiento: @ViewBag.DatosDeportista.FechaNacimiento.ToShortDateString()</h2>
 <img src="~/img/@ViewBag.DatosDeportista.Foto">
-<button> <a href = '@Url.Action("VerDetalleDeporte", "Home", new { id = ViewBag.DatosDeportista.IdDeporte })'> Deporte</a></button>
-<button> <a href = '@Url.Action("VerDetallePais", "Home", new { id = ViewBag.DatosDeportista.IdPais })'> Pais </a></button>
+<button> <a href = '@Url.Action("VerDetalleDeporte", "Home", new { IdDeporte = ViewBag.DatosDeportista.IdDeporte })'> Deporte</a></button>
+<button> <a href = '@Url.Action("VerDetallePais", "Home", new { IdPais = ViewBag.DatosDeportista.IdPais })'> Pais </a></button>

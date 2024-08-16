@@ -505,24 +505,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\48039458\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\mdomi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\TP_JJOO.csproj",
+      "projectUniqueName": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\TP_JJOO.csproj",
       "projectName": "TP_JJOO",
-      "projectPath": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\TP_JJOO.csproj",
-      "packagesPath": "C:\\Users\\48039458\\.nuget\\packages\\",
-      "outputPath": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\obj\\",
+      "projectPath": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\TP_JJOO.csproj",
+      "packagesPath": "C:\\Users\\mdomi\\.nuget\\packages\\",
+      "outputPath": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\48039458\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\mdomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -581,7 +576,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

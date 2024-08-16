@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ns1O6q+lETelAAPaB+/eGhIpfcCFunpc1b0a64AQeFk=",
+  "Hash": "hDVbkzgcv2Bd1Xt1kZEVSiLZYtj+X4nM/XV8Z9JxWI4=",
   "Source": "TP_JJOO",
   "BasePath": "_content/TP_JJOO",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP_JJOO\\wwwroot",
       "Source": "TP_JJOO",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\css\\site.css",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\favicon.ico",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\argentina.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\argentina.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/argentina.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\img\\argentina.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\arqueria.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\arqueria.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/arqueria.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\arqueria.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\atletismo.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\atletismo.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/atletismo.png",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\atletismo.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\biles.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\biles.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/biles.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\biles.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\china.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\china.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/china.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\china.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\davis.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\davis.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/davis.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\davis.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\duplantis.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\duplantis.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/duplantis.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\duplantis.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\eeuu.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\eeuu.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/eeuu.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\eeuu.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\gimartistica.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\gimartistica.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/gimartistica.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gimartistica.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\gomez.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\gomez.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/gomez.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gomez.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\jajarabilla.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\jajarabilla.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/jajarabilla.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\jajarabilla.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\logojjoo.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\logojjoo.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/logojjoo.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logojjoo.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\mucino.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\mucino.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/mucino.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mucino.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\su.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\su.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/su.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\su.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\suecia.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\suecia.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/suecia.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\suecia.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\Thumbs.db",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\Thumbs.db",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/Thumbs.db",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Thumbs.db"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\Xia.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\Xia.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/Xia.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Xia.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\yang.png",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\img\\yang.png",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "img/yang.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\yang.png"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\js\\site.js",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP_JJOO",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-2\\TP_JJOO\\wwwroot\\",
       "BasePath": "_content/TP_JJOO",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

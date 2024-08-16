@@ -2,11 +2,11 @@
 <h2>@ViewBag.DatosPais.Nombre</h2>
 
 <img src="~/img/@ViewBag.DatosPais.Bandera">
-<h2>@ViewBag.DatosPais.FechaFundacion</h2>
+<h2>Fecha de Fundación: @ViewBag.DatosPais.FechaFundacion.ToShortDateString()</h2>
 
 
 @foreach(Deportista dep in ViewBag.ListaDeportistasPais){
     <h1> @dep.Nombre </h1>
     <img src="~/img/@dep.Foto">
-    <button> <a href = '@Url.Action("VerDetalleDeportista", "Home", new { id = dep.IdDeportista })'> Ver Más</a></button>
+    <button> <a href = '@Url.Action("VerDetalleDeportista", "Home", new { IdDeportista = dep.IdDeportista })'> Ver Más</a></button>
 }
