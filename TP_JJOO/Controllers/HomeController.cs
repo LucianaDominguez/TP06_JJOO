@@ -34,20 +34,20 @@ public class HomeController : Controller
     {
         ViewBag.DatosDeporte = BD.Deporte(idDeporte);
         ViewBag.ListaDeportistas = BD.ListarDeportistasXdep(idDeporte);
-        return View("VerDetalleDeporte");
+        return View();
     }
 
     public IActionResult VerDetallePais(int idPais)
     {
-        ViewBag.ListaPaises = BD.Pais(idPais);
+        ViewBag.DatosPais = BD.Pais(idPais);
         ViewBag.ListaDeportistasPais = BD.ListarDeportistasXpais(idPais).ToList();
-        return View("VerDetallePais");
+        return View();
     }
 
     public IActionResult VerDetalleDeportista(int IdDeportista)
     {
-        ViewBag.DatpsDeportista = BD.Deportista(IdDeportista);
-        return View("VerDetalleDeportista");
+        ViewBag.DatosDeportista = BD.Deportista(IdDeportista);
+        return View();
     }
 
     public IActionResult AgregarDeportista(){
