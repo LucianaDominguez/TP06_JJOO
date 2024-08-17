@@ -5,7 +5,7 @@ public class BD
 { 
      // cambiar a @"Server=localhost para ORT;
     //cambiar a @"Server=LAPTOP-58GA0SUJ\SQLEXPRESS; para compu Lu 
-    private static string _connectionString = @"Server=localhost;
+    private static string _connectionString = @"Server=LAPTOP-58GA0SUJ\SQLEXPRESS;
     DataBase=JJOO;Trusted_Connection=True;";
     public static void AgregarDeportista(Deportista dep)
     {

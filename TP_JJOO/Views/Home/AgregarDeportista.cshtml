@@ -1,0 +1,38 @@
+<h1>Agregar Deportista</h1>
+
+<form action="GuardarDeportista" method="post">
+        <label for="Nombre">Nombre:</label>
+        <input type="text" id="Nombre" name="Nombre"/>
+
+        <label for="Apellido">Apellido:</label>
+        <input type="text" id="Apellido" name="Apellido"/>
+    
+        <label for="FechaNacimiento">Fecha de Nacimiento:</label>
+        <input type="date" id="FechaNacimiento" name="FechaNacimiento"/>
+  
+        <label for="Foto">Foto (URL):</label>
+        <input type="text" id="Foto" name="Foto" placeholder="Ingrese URL de la imagen" />
+
+    
+        <label for="IdDeporte">Deporte:</label>
+        <select id="IdDeporte" name="IdDeporte">
+            <option value="">Seleccione un Deporte</option>
+            @foreach (Deporte deporte in BD.ListarDeportes())
+            {
+                <option value="@deporte.IdDeporte">@deporte.Nombre</option>
+            }
+        </select>
+
+
+        <label for="IdPais">País:</label>
+        <select id="IdPais" name="IdPais" class="form-control">
+            <option value="">Seleccione un País</option>
+            @foreach (Pais pais in BD.ListarPaises())
+            {
+                <option value="@pais.IdPais">@pais.Nombre</option>
+            }
+        </select>
+    
+
+    <button type="submit" class="btn btn-primary">Guardar Deportista</button>
+</form>

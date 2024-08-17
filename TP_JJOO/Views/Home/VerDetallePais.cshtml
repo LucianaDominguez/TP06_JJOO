@@ -7,6 +7,6 @@
 
 @foreach(Deportista dep in ViewBag.ListaDeportistasPais){
     <h1> @dep.Nombre </h1>
-    <img src="~/img/@dep.Foto">
+    <img src="@dep.Foto">
     <button> <a href = '@Url.Action("VerDetalleDeportista", "Home", new { IdDeportista = dep.IdDeportista })'> Ver Más</a></button>
 }
