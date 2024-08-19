@@ -43,3 +43,10 @@ footer {
   text-align: center; 
  
 }
+.card{
+  float: left;
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
