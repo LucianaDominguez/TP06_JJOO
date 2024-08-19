@@ -9,63 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TP_JJOO
 build_property.RootNamespace = TP_JJOO
-build_property.ProjectDir = D:\Luly\INFO 2024\TP06_JJOO-3\TP_JJOO\
+build_property.ProjectDir = /Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Luly\INFO 2024\TP06_JJOO-3\TP_JJOO
+build_property.MSBuildProjectDirectory = /Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/Home/AgregarDeportista.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ3JlZ2FyRGVwb3J0aXN0YS5jc2h0bWw=
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/Home/AgregarDeportista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BZ3JlZ2FyRGVwb3J0aXN0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/Home/Creditos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVkaXRvcy5jc2h0bWw=
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/Home/Creditos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DcmVkaXRvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/Home/Deportes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXBvcnRlcy5jc2h0bWw=
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/Home/Deportes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9EZXBvcnRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/Home/Historia.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIaXN0b3JpYS5jc2h0bWw=
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/Home/Historia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9IaXN0b3JpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/Home/Paises.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWlzZXMuY3NodG1s
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/Home/Paises.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9QYWlzZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/Home/VerDetalleDeporte.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJEZXRhbGxlRGVwb3J0ZS5jc2h0bWw=
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/Home/VerDetalleDeporte.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9WZXJEZXRhbGxlRGVwb3J0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/Home/VerDetalleDeportista.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJEZXRhbGxlRGVwb3J0aXN0YS5jc2h0bWw=
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/Home/VerDetalleDeportista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9WZXJEZXRhbGxlRGVwb3J0aXN0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/Home/VerDetallePais.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJEZXRhbGxlUGFpcy5jc2h0bWw=
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/Home/VerDetallePais.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9WZXJEZXRhbGxlUGFpcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Luly/INFO 2024/TP06_JJOO-3/TP_JJOO/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,6 +1,14 @@
+@font-face {
+  font-family: 'JJOO';
+  src: url(../JJOO.ttf); 
+  font-weight: bold; 
+  font-size: bold;
+}
+
 html {
   font-size: 14px;
-  min-height: 100%;
+  min-height: 100%; 
+  font-family: 'JJOO';
 }
 
 @media (min-width: 768px) {
