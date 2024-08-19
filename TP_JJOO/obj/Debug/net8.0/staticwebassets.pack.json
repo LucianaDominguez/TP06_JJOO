@@ -29,8 +29,24 @@
       "PackagePath": "staticwebassets\\img\\atletismo.png"
     },
     {
+      "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\bannerpais.png",
+      "PackagePath": "staticwebassets\\img\\bannerpais.png"
+    },
+    {
       "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\biles.png",
       "PackagePath": "staticwebassets\\img\\biles.png"
+    },
+    {
+      "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\car1.jpg",
+      "PackagePath": "staticwebassets\\img\\car1.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\car2.jfif",
+      "PackagePath": "staticwebassets\\img\\car2.jfif"
+    },
+    {
+      "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\car3.webp",
+      "PackagePath": "staticwebassets\\img\\car3.webp"
     },
     {
       "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\china.png",
@@ -47,6 +63,10 @@
     {
       "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\eeuu.png",
       "PackagePath": "staticwebassets\\img\\eeuu.png"
+    },
+    {
+      "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\fondobanner.jpg",
+      "PackagePath": "staticwebassets\\img\\fondobanner.jpg"
     },
     {
       "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\gimartistica.png",
@@ -67,6 +87,10 @@
     {
       "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\mucino.png",
       "PackagePath": "staticwebassets\\img\\mucino.png"
+    },
+    {
+      "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\navbanner.webp",
+      "PackagePath": "staticwebassets\\img\\navbanner.webp"
     },
     {
       "Id": "Z:\\2024\\TP06_JJOO-5\\TP_JJOO\\wwwroot\\img\\su.png",

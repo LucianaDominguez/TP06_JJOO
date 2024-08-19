@@ -19,9 +19,42 @@ footer {
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
 }
-
+.hLayout {
+  background-image: url(../img/navbanner.webp);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  color: white;
+}
 .hLayout img{
-  width: 6%;
+  max-height: 100px;
+}
+.hLayout nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.hLayout nav ul li {
+  margin: 0 15px; 
+}
+.hLayout nav ul li a {
+  text-decoration: none; 
+  color: white;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+.hLayout nav ul li a:hover {
+  color: #f0f0f0;
+}
+.hLayout nav ul li a.active {
+  color: #ffcc00; /* Color de texto para el enlace activo */
+  border-bottom: 2px solid #ffcc00; /* Línea inferior para el enlace activo */
+}
+
+/*.hLayout img{
+  width: 20%;
   height: auto;
 }
 .hLayout, .hLayout nav ul{
@@ -35,6 +68,10 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+} 
+.hLayout a 
+{
+  width: 15%;
 }
 
 .hLayout nav ul li a{
@@ -42,11 +79,32 @@ footer {
   color:black;
   text-align: center; 
  
-}
+}*/
 .card{
   float: left;
   margin-left: 8%;
   margin-right: 8%;
   margin-top: 2%;
   margin-bottom: 2%;
+} 
+.banner 
+{
+  background-image: url(../img/fondobanner.jpg);
+  height: 100%;
+  width:100%;
+}
+.banner h2, .bannerPais h2{
+  height:100%;
+  text-align: center;
+  color:#e9ecef;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  
+}
+.bannerPais
+{
+  background-image: url(../img/bannerpais.png);
+  height: 100%;
+  width:100%;
 }
