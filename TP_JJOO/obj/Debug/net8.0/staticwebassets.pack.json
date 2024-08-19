@@ -13,10 +13,6 @@
       "PackagePath": "staticwebassets\\img\\Thumbs.db"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\Xia.png",
-      "PackagePath": "staticwebassets\\img\\Xia.png"
-    },
-    {
       "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\argentina.png",
       "PackagePath": "staticwebassets\\img\\argentina.png"
     },
@@ -31,10 +27,6 @@
     {
       "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\bannerpais.png",
       "PackagePath": "staticwebassets\\img\\bannerpais.png"
-    },
-    {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\biles.png",
-      "PackagePath": "staticwebassets\\img\\biles.png"
     },
     {
       "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\car1.jpg",
@@ -53,14 +45,6 @@
       "PackagePath": "staticwebassets\\img\\china.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\davis.png",
-      "PackagePath": "staticwebassets\\img\\davis.png"
-    },
-    {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\duplantis.png",
-      "PackagePath": "staticwebassets\\img\\duplantis.png"
-    },
-    {
       "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\eeuu.png",
       "PackagePath": "staticwebassets\\img\\eeuu.png"
     },
@@ -73,36 +57,36 @@
       "PackagePath": "staticwebassets\\img\\gimartistica.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\gomez.png",
-      "PackagePath": "staticwebassets\\img\\gomez.png"
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\hist1.png",
+      "PackagePath": "staticwebassets\\img\\hist1.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\jajarabilla.png",
-      "PackagePath": "staticwebassets\\img\\jajarabilla.png"
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\hist2.png",
+      "PackagePath": "staticwebassets\\img\\hist2.png"
+    },
+    {
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\hist3.png",
+      "PackagePath": "staticwebassets\\img\\hist3.png"
+    },
+    {
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\hist4.png",
+      "PackagePath": "staticwebassets\\img\\hist4.png"
     },
     {
       "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\logojjoo.png",
       "PackagePath": "staticwebassets\\img\\logojjoo.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\mucino.png",
-      "PackagePath": "staticwebassets\\img\\mucino.png"
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\mascota.png",
+      "PackagePath": "staticwebassets\\img\\mascota.png"
     },
     {
       "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\navbanner.webp",
       "PackagePath": "staticwebassets\\img\\navbanner.webp"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\su.png",
-      "PackagePath": "staticwebassets\\img\\su.png"
-    },
-    {
       "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\suecia.png",
       "PackagePath": "staticwebassets\\img\\suecia.png"
-    },
-    {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\yang.png",
-      "PackagePath": "staticwebassets\\img\\yang.png"
     },
     {
       "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\js\\site.js",

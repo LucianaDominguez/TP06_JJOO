@@ -100,3 +100,19 @@ footer {
   text-align: center;
   margin-bottom: 15%;
 }
+.mascota{
+  display:flex;
+  flex-direction: row;
+}
+.mascota img{
+  width:50%;
+  height: auto;
+}
+
+.mascota div{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
