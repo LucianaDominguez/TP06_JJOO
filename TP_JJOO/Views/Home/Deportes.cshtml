@@ -3,15 +3,19 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </head>
 <h1>Deportes</h1>
-@foreach(Deporte dep in ViewBag.ListaDeportes)
-{
-<div class="card text-bg-dark">
-  <img src="~/img/@dep.Foto" class="card-img" alt="...">
-  <div class="card-img-overlay">
-    <h5 class="card-title">@dep.Nombre</h5>
-    <a href='@Url.Action("VerDetalleDeporte", "Home", new { idDeporte = dep.IdDeporte })' class="btn btn-primary">Ver más</a>
+<section class="deportes">
+  @foreach(Deporte dep in ViewBag.ListaDeportes)
+  {
+  <div class="card text-bg-dark cardDeporte">
+    <img src="~/img/@dep.Foto" class="card-img" alt="...">
+    <div class="card-img-overlay">
+      <h1 class="card-title nomCard">@dep.Nombre</h1>
+      <a href='@Url.Action("VerDetalleDeporte", "Home", new { idDeporte = dep.IdDeporte })' class="btn btn-primary btnCard">Ver más</a>
+    </div>
   </div>
-</div>
-}
+  }
+
+</section>
+
 
 

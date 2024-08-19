@@ -10,13 +10,14 @@
 <img src="~/img/@ViewBag.DatosPais.Bandera">
 <h2>Fecha de Fundación: @ViewBag.DatosPais.FechaFundacion.ToShortDateString()</h2>
 </div>
-
-@foreach(Deportista dep in ViewBag.ListaDeportistasPais){
-    <div class="card" style="width: 18rem;">
-  <img src="@dep.Foto" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title"> @dep.Apellido</h5>
-    <a href='@Url.Action("VerDetalleDeportista", "Home", new { IdDeportista = dep.IdDeportista })' class="btn btn-primary">Ver Más</a>
+<section class="depXpais">
+  @foreach(Deportista dep in ViewBag.ListaDeportistasPais){
+      <div class="card" style="width: 18rem;">
+    <img src="@dep.Foto" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title"> @dep.Apellido</h5>
+      <a href='@Url.Action("VerDetalleDeportista", "Home", new { IdDeportista = dep.IdDeportista })' class="btn btn-primary">Ver Más</a>
+    </div>
   </div>
-</div>
-}
+  }
+</section>

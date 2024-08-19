@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/TP_JJOO.csproj": {}
+    "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\TP_JJOO.csproj": {}
   },
   "projects": {
-    "/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/TP_JJOO.csproj": {
+    "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\TP_JJOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/TP_JJOO.csproj",
+        "projectUniqueName": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\TP_JJOO.csproj",
         "projectName": "TP_JJOO",
-        "projectPath": "/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/TP_JJOO.csproj",
-        "packagesPath": "/Users/renataminuchin/.nuget/packages/",
-        "outputPath": "/Users/renataminuchin/Desktop/TP06_JJOO-1/TP_JJOO/obj/",
+        "projectPath": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\TP_JJOO.csproj",
+        "packagesPath": "C:\\Users\\mdomi\\.nuget\\packages\\",
+        "outputPath": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/renataminuchin/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mdomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

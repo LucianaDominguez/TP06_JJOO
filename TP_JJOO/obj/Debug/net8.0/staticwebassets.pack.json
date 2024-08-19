@@ -1,143 +1,143 @@
 {
   "Files": [
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\css\\site.css",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\JJOO.ttf",
+      "PackagePath": "staticwebassets\\JJOO.ttf"
+    },
+    {
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\favicon.ico",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\Thumbs.db",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\Thumbs.db",
       "PackagePath": "staticwebassets\\img\\Thumbs.db"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\argentina.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\argentina.png",
       "PackagePath": "staticwebassets\\img\\argentina.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\arqueria.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\arqueria.png",
       "PackagePath": "staticwebassets\\img\\arqueria.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\atletismo.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\atletismo.png",
       "PackagePath": "staticwebassets\\img\\atletismo.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\bannerpais.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\bannerpais.png",
       "PackagePath": "staticwebassets\\img\\bannerpais.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\car1.jpg",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\car1.jpg",
       "PackagePath": "staticwebassets\\img\\car1.jpg"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\car2.jfif",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\car2.jfif",
       "PackagePath": "staticwebassets\\img\\car2.jfif"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\car3.webp",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\car3.webp",
       "PackagePath": "staticwebassets\\img\\car3.webp"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\china.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\china.png",
       "PackagePath": "staticwebassets\\img\\china.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\eeuu.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\eeuu.png",
       "PackagePath": "staticwebassets\\img\\eeuu.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\fondobanner.jpg",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\fondobanner.jpg",
       "PackagePath": "staticwebassets\\img\\fondobanner.jpg"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\gimartistica.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\gimartistica.png",
       "PackagePath": "staticwebassets\\img\\gimartistica.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\hist1.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\hist1.png",
       "PackagePath": "staticwebassets\\img\\hist1.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\hist2.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\hist2.png",
       "PackagePath": "staticwebassets\\img\\hist2.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\hist3.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\hist3.png",
       "PackagePath": "staticwebassets\\img\\hist3.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\hist4.png",
-      "PackagePath": "staticwebassets\\img\\hist4.png"
-    },
-    {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\logojjoo.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\logojjoo.png",
       "PackagePath": "staticwebassets\\img\\logojjoo.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\mascota.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\mascota.png",
       "PackagePath": "staticwebassets\\img\\mascota.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\navbanner.webp",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\navbanner.webp",
       "PackagePath": "staticwebassets\\img\\navbanner.webp"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\img\\suecia.png",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\suecia.png",
       "PackagePath": "staticwebassets\\img\\suecia.png"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\js\\site.js",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-3\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

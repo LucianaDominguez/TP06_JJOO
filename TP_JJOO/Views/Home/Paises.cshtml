@@ -4,16 +4,18 @@
 </head>
 
 <h1> Países </h1>
-@foreach(Pais pais in ViewBag.ListaPaises){
-   <div class="card text-bg-dark">
-  <img src="~/img/@pais.Bandera" class="card-img" alt="...">
-  <div class="card-img-overlay">
-    <h5 class="card-title">@pais.Nombre</h5>
-    <a href='@Url.Action("VerDetallePais", "Home", new {idPais = pais.IdPais })' class="btn btn-primary">Ver más</a>
-  </div>
-</div>
 
-}
+  @foreach(Pais pais in ViewBag.ListaPaises){
+    <div class="card text-bg-dark cardPais">
+    <img src="~/img/@pais.Bandera" class="card-img " alt="...">
+    <div class="card-img-overlay">
+      <h3 class="card-title nomCard">@pais.Nombre</h3>
+      <a href='@Url.Action("VerDetallePais", "Home", new {idPais = pais.IdPais })' class="btn btn-primary btnCard">Ver más</a>
+    </div>
+  </div>}
+
+
+
 
 
 
