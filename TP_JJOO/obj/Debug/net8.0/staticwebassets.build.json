@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "clWH04elUdzZW3yz9fqNVAMD+0eUrTkbvf+zweorej8=",
+  "Hash": "ZTqPOqyRn2AK/XKEecmO9O35G27k6nF4pqPwI6i/iDc=",
   "Source": "TP_JJOO",
   "BasePath": "_content/TP_JJOO",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\anillos.jpg",
+      "SourceId": "TP_JJOO",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "BasePath": "_content/TP_JJOO",
+      "RelativePath": "img/anillos.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\anillos.jpg"
     },
     {
       "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\img\\argentina.png",
