@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "26EyZLVLgiYYz0fXETR6MA0Wsn7ZSHrjGiTvnm6khLI=",
+  "Hash": "clWH04elUdzZW3yz9fqNVAMD+0eUrTkbvf+zweorej8=",
   "Source": "TP_JJOO",
   "BasePath": "_content/TP_JJOO",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\creditos.mov",
+      "SourceId": "TP_JJOO",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\",
+      "BasePath": "_content/TP_JJOO",
+      "RelativePath": "creditos.mov",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\creditos.mov"
+    },
     {
       "Identity": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\css\\site.css",
       "SourceId": "TP_JJOO",

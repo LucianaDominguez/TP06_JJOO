@@ -175,3 +175,28 @@ h1{
   display: flex;
   justify-content: center;
 }
+
+.cardDetalleDeportista{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.btnDeportista{
+  background-color: rgb(0, 0, 126);
+  width:30%;
+}
+
+.btnDeportista a{
+  text-decoration: none;
+  color: aliceblue;
+}
+.card-title1{
+  font-size: 180%;
+  display: flex;
+  align-items: center;
+}
+.mb-3{
+  width: 100% !important;
+  height: 80%;
+}

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\JJOO.ttf"
     },
     {
+      "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\creditos.mov",
+      "PackagePath": "staticwebassets\\creditos.mov"
+    },
+    {
       "Id": "D:\\Luly\\INFO 2024\\TP06_JJOO-4\\TP_JJOO\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
